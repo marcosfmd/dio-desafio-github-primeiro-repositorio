@@ -1,0 +1,10 @@
+Apredendo sobre Git e Github
+
+Apredendo os comandos basicos do Git como, CD(Entra dentro de pasta/arquivo), DIR(Lista os arquivos), MKDIR(Criar um novo diretorio), DEL(Deletar um arquivo) e RMDIR(Para excluir um repositorio)
+Apredendo comando com Git
+Iniciar o Git - Git init, Iniciar novo versionamento - Git add, Criar um commit - Git commit.
+Apredendo Ciclos de vidas dos arquivos com GIT STATUS.
+
+Já criado minha conta no GitHub.
+
+Agora criando um Repositório e fazendo alterações necessarias
